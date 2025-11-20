@@ -1,6 +1,3 @@
-Here's the updated `README.md` with your specific requirements:
-
-```markdown
 # Inventory Forecast Web Application
 
 ## Description
